@@ -96,7 +96,7 @@ This repo was built to:
 - Organize my handwritten and code-based learning  
 - Upload everything to GitHub for self-reference and sharing
 
-> ⚠️ This is **not a deployable or runnable project** — only a **design practice repo** with theory, code examples, and UML modeling.
+> ⚠️ his is not a deployable or runnable project. It serves as a design practice repository featuring theory, code examples, and UML modeling for learning and interview preparation.
 
 
 
